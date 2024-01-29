@@ -1,0 +1,481 @@
+[{"Sensor Adi": ["10. Yıl Cad. 2"], "X Koordinati": ["28.92097089"], "Y Koordinati": ["40.9950792"], "Hastane Sayisi": 10}
+,{"Sensor Adi": ["15 Temmuz Şehitler Köprüsü Çıkışı- Metrobüs Girişi"], "X Koordinati": ["29.01859443"], "Y Koordinati": ["41.05800076"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["15 Temmuz Şehitler Köprüsü Yıldız Katılımı"], "X Koordinati": ["29.01843233"], "Y Koordinati": ["41.05770224"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["4. Levent"], "X Koordinati": ["29.01085152"], "Y Koordinati": ["41.08173288"], "Hastane Sayisi": 11}
+,{"Sensor Adi": ["4.Levent"], "X Koordinati": ["29.01051159"], "Y Koordinati": ["41.0813878"], "Hastane Sayisi": 10}
+,{"Sensor Adi": ["Akom Önü"], "X Koordinati": ["28.961073"], "Y Koordinati": ["41.090599"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Akom VMS"], "X Koordinati": ["28.9614366"], "Y Koordinati": ["41.09269742"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Aksaray Metro İstasyonu"], "X Koordinati": ["28.94666867"], "Y Koordinati": ["41.01275835"], "Hastane Sayisi": 19}
+,{"Sensor Adi": ["Alibeyköy TEM Katılımı"], "X Koordinati": ["28.95829669"], "Y Koordinati": ["41.07221143"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Altunizade"], "X Koordinati": ["29.04612265"], "Y Koordinati": ["41.02742808"], "Hastane Sayisi": 6}
+,{"Sensor Adi": ["Altunizade Ümraniye Katılımı"], "X Koordinati": ["29.04965362"], "Y Koordinati": ["41.02332425"], "Hastane Sayisi": 15}
+,{"Sensor Adi": ["Altunizade Üsküdar Katılımı"], "X Koordinati": ["29.04718161"], "Y Koordinati": ["41.02262851"], "Hastane Sayisi": 13}
+,{"Sensor Adi": ["Anıtmezar"], "X Koordinati": ["28.92230618"], "Y Koordinati": ["41.02983043"], "Hastane Sayisi": 4}
+,{"Sensor Adi": ["Aşiyan Parkı"], "X Koordinati": ["29.05319592"], "Y Koordinati": ["41.08062093"], "Hastane Sayisi": 3}
+,{"Sensor Adi": ["Ataköy Konakları Sahilyolu"], "X Koordinati": ["28.84775536"], "Y Koordinati": ["40.97437188"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Ataköy Sinan Erdem Spor Salonu"], "X Koordinati": ["28.85196909"], "Y Koordinati": ["40.98829864"], "Hastane Sayisi": 4}
+,{"Sensor Adi": ["Ataşehir Kavşağı"], "X Koordinati": ["29.11948192"], "Y Koordinati": ["40.99556901"], "Hastane Sayisi": 4}
+,{"Sensor Adi": ["Ataşehir Varyap"], "X Koordinati": ["29.10444179"], "Y Koordinati": ["41.00217044"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["Atışalanı"], "X Koordinati": ["28.8551"], "Y Koordinati": ["41.0551"], "Hastane Sayisi": 10}
+,{"Sensor Adi": ["Avcılar"], "X Koordinati": ["28.71457933"], "Y Koordinati": ["40.99050329"], "Hastane Sayisi": 6}
+,{"Sensor Adi": ["B. Ekspres Yolu"], "X Koordinati": ["28.81246155"], "Y Koordinati": ["41.01324549"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["B. Expres İs Bankası Karsısı"], "X Koordinati": ["28.81100576"], "Y Koordinati": ["41.03205842"], "Hastane Sayisi": 3}
+,{"Sensor Adi": ["Bağdat Cad."], "X Koordinati": ["29.070029"], "Y Koordinati": ["40.966026"], "Hastane Sayisi": 9}
+,{"Sensor Adi": ["Bakırköy"], "X Koordinati": ["28.86911335"], "Y Koordinati": ["40.99682415"], "Hastane Sayisi": 14}
+,{"Sensor Adi": ["Bakırköy Sahil"], "X Koordinati": ["28.87563395"], "Y Koordinati": ["40.97398086"], "Hastane Sayisi": 8}
+,{"Sensor Adi": ["Balat Hastanesi Önü"], "X Koordinati": ["28.94447535"], "Y Koordinati": ["41.039193"], "Hastane Sayisi": 3}
+,{"Sensor Adi": ["Basın Ekspres Yolu D100 Katılımı"], "X Koordinati": ["28.81820438"], "Y Koordinati": ["40.99322492"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["Başakşehir Giriş"], "X Koordinati": ["28.81030917"], "Y Koordinati": ["41.06611425"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["Bayrampaşa"], "X Koordinati": ["28.89205413"], "Y Koordinati": ["41.04485985"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["Bayrampaşa E6"], "X Koordinati": ["28.92015891"], "Y Koordinati": ["41.03243959"], "Hastane Sayisi": 8}
+,{"Sensor Adi": ["Beşiktaş TEM Bağl. Yolu"], "X Koordinati": ["29.01419233"], "Y Koordinati": ["41.08592149"], "Hastane Sayisi": 11}
+,{"Sensor Adi": ["Beylerbeyi Nakkaştepe Katılımı"], "X Koordinati": ["29.04264465"], "Y Koordinati": ["41.03523303"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Boğaziçi İmar Müdürlüğü"], "X Koordinati": ["29.02511244"], "Y Koordinati": ["41.13614094"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Bomonti-Dolmabahçe Tüneli-16"], "X Koordinati": ["28.98287557"], "Y Koordinati": ["41.05007953"], "Hastane Sayisi": 14}
+,{"Sensor Adi": ["Bomonti-Dolmabahçe Tüneli-2"], "X Koordinati": ["28.97784069"], "Y Koordinati": ["41.05667057"], "Hastane Sayisi": 10}
+,{"Sensor Adi": ["Bomonti-Dolmabahçe Tüneli-21"], "X Koordinati": ["28.9850811"], "Y Koordinati": ["41.04699003"], "Hastane Sayisi": 16}
+,{"Sensor Adi": ["Bomonti-Dolmabahçe Tüneli-26"], "X Koordinati": ["28.98724162"], "Y Koordinati": ["41.04403805"], "Hastane Sayisi": 14}
+,{"Sensor Adi": ["Bomonti-Dolmabahçe Tüneli-9"], "X Koordinati": ["28.98059701"], "Y Koordinati": ["41.05322462"], "Hastane Sayisi": 11}
+,{"Sensor Adi": ["Büyükçekmece Çıkış"], "X Koordinati": ["28.59120425"], "Y Koordinati": ["41.02472767"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["Büyükdere 1.Levent "], "X Koordinati": ["29.01548399"], "Y Koordinati": ["41.07353365"], "Hastane Sayisi": 13}
+,{"Sensor Adi": ["Cendere Yolu Belediye Önü "], "X Koordinati": ["28.96476959"], "Y Koordinati": ["41.06916329"], "Hastane Sayisi": 5}
+,{"Sensor Adi": ["Cendere Yolu Kültür Merkezi"], "X Koordinati": ["28.97123703"], "Y Koordinati": ["41.07787432"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["Cevizlibağ"], "X Koordinati": ["28.91428292"], "Y Koordinati": ["41.01815769"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["Cevizlibağ TERRA"], "X Koordinati": ["28.91933"], "Y Koordinati": ["41.021521"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["Conrad Oteli"], "X Koordinati": ["29.00781219"], "Y Koordinati": ["41.04802169"], "Hastane Sayisi": 5}
+,{"Sensor Adi": ["Çağlayan Kavşağı"], "X Koordinati": ["28.97605893"], "Y Koordinati": ["41.06773344"], "Hastane Sayisi": 20}
+,{"Sensor Adi": ["Çağlayan SSK"], "X Koordinati": ["28.97078807"], "Y Koordinati": ["41.06546243"], "Hastane Sayisi": 20}
+,{"Sensor Adi": ["Çamlıca Gişeler"], "X Koordinati": ["29.16680657"], "Y Koordinati": ["40.99366069"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["Çamlıca Katılımı"], "X Koordinati": ["29.06439253"], "Y Koordinati": ["41.00765115"], "Hastane Sayisi": 4}
+,{"Sensor Adi": ["Çamlıca TEM-D100 Bağl. Yolu"], "X Koordinati": ["29.07240639"], "Y Koordinati": ["41.00579798"], "Hastane Sayisi": 7}
+,{"Sensor Adi": ["Çayırbaşı Sahil"], "X Koordinati": ["29.03605369"], "Y Koordinati": ["41.15511479"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["Çayırbaşı-Sarıyer Tüneli-31"], "X Koordinati": ["29.02873193"], "Y Koordinati": ["41.16157832"], "Hastane Sayisi": 4}
+,{"Sensor Adi": ["Çayırbaşı-Sarıyer Tüneli-44"], "X Koordinati": ["29.03238722"], "Y Koordinati": ["41.1659217"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Çayırbaşı-Sarıyer Tüneli-57"], "X Koordinati": ["29.03612659"], "Y Koordinati": ["41.17037295"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Çekmeköy"], "X Koordinati": ["29.17027604"], "Y Koordinati": ["41.03040535"], "Hastane Sayisi": 6}
+,{"Sensor Adi": ["Çırağan Cad."], "X Koordinati": ["29.01661724"], "Y Koordinati": ["41.0448453"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["D100 15 Temmuz Şehitler Köprüsü Avrupa Girişi"], "X Koordinati": ["29.02505589"], "Y Koordinati": ["41.05383259"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["D100 Acıbadem"], "X Koordinati": ["29.04475738"], "Y Koordinati": ["41.00177229"], "Hastane Sayisi": 5}
+,{"Sensor Adi": ["D100 Acıbadem Köprüsü"], "X Koordinati": ["29.05619156"], "Y Koordinati": ["41.01550986"], "Hastane Sayisi": 3}
+,{"Sensor Adi": ["D100 Altıntepe"], "X Koordinati": ["29.11061533"], "Y Koordinati": ["40.95935702"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["D100 Altunizade"], "X Koordinati": ["29.0489674"], "Y Koordinati": ["41.02143667"], "Hastane Sayisi": 14}
+,{"Sensor Adi": ["D100 Ambarlı"], "X Koordinati": ["28.68792921"], "Y Koordinati": ["41.00255005"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["D100 Avcılar Hacı şerif"], "X Koordinati": ["28.73446126"], "Y Koordinati": ["40.97876639"], "Hastane Sayisi": 6}
+,{"Sensor Adi": ["D100 Başıbüyük"], "X Koordinati": ["29.1295519"], "Y Koordinati": ["40.94376167"], "Hastane Sayisi": 6}
+,{"Sensor Adi": ["D100 Beylerbeyi"], "X Koordinati": ["29.045589"], "Y Koordinati": ["41.03239"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["D100 Büyükçekmece"], "X Koordinati": ["28.57605297"], "Y Koordinati": ["41.01994932"], "Hastane Sayisi": 5}
+,{"Sensor Adi": ["D100 Celaliye 1"], "X Koordinati": ["28.42651366"], "Y Koordinati": ["41.04062267"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["D100 Celaliye 2"], "X Koordinati": ["28.40185089"], "Y Koordinati": ["41.04743243"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["D100 Cennet Mah."], "X Koordinati": ["28.78019872"], "Y Koordinati": ["40.98552648"], "Hastane Sayisi": 6}
+,{"Sensor Adi": ["D100 Çağlayan"], "X Koordinati": ["28.97892104"], "Y Koordinati": ["41.06729962"], "Hastane Sayisi": 20}
+,{"Sensor Adi": ["D100 Çobançeşme"], "X Koordinati": ["28.81747412"], "Y Koordinati": ["40.99352358"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["D100 Çobançeşme Havaalanı"], "X Koordinati": ["28.81291462"], "Y Koordinati": ["40.99727653"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["D100 Edirnekapı"], "X Koordinati": ["28.92724152"], "Y Koordinati": ["41.03198349"], "Hastane Sayisi": 3}
+,{"Sensor Adi": ["D100 Florya"], "X Koordinati": ["28.7927708"], "Y Koordinati": ["40.98996716"], "Hastane Sayisi": 9}
+,{"Sensor Adi": ["D100 Göztepe"], "X Koordinati": ["29.079106"], "Y Koordinati": ["40.990121"], "Hastane Sayisi": 8}
+,{"Sensor Adi": ["D100 Gülsuyu "], "X Koordinati": ["29.15252266"], "Y Koordinati": ["40.92487019"], "Hastane Sayisi": 3}
+,{"Sensor Adi": ["D100 Güzelce"], "X Koordinati": ["28.51722316"], "Y Koordinati": ["41.00797921"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["D100 Güzelyalı"], "X Koordinati": ["29.29280385"], "Y Koordinati": ["40.854436"], "Hastane Sayisi": 4}
+,{"Sensor Adi": ["D100 Haliç Köprü Çıkışı"], "X Koordinati": ["28.9371815"], "Y Koordinati": ["41.03869375"], "Hastane Sayisi": 4}
+,{"Sensor Adi": ["D100 Harem"], "X Koordinati": ["29.01397889"], "Y Koordinati": ["41.005403"], "Hastane Sayisi": 4}
+,{"Sensor Adi": ["D100 Havaalanı Katılımı"], "X Koordinati": ["28.81777183"], "Y Koordinati": ["40.9928243"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["D100 Kartal Kavşağı"], "X Koordinati": ["29.21172042"], "Y Koordinati": ["40.905516"], "Hastane Sayisi": 5}
+,{"Sensor Adi": ["D100 Kartal Oto Sanayi"], "X Koordinati": ["29.19466674"], "Y Koordinati": ["40.91127817"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["D100 Kaynarca"], "X Koordinati": ["29.25871054"], "Y Koordinati": ["40.8797502"], "Hastane Sayisi": 13}
+,{"Sensor Adi": ["D100 Kozyatağı"], "X Koordinati": ["29.09655853"], "Y Koordinati": ["40.97888647"], "Hastane Sayisi": 9}
+,{"Sensor Adi": ["D100 Kumburgaz 1"], "X Koordinati": ["28.48142299"], "Y Koordinati": ["41.01929041"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["D100 Kumburgaz 2"], "X Koordinati": ["28.44699935"], "Y Koordinati": ["41.03475083"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["D100 Küçük Çamlıca"], "X Koordinati": ["29.06185727"], "Y Koordinati": ["41.00956648"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["D100 Küçükçekmece"], "X Koordinati": ["28.7671184"], "Y Koordinati": ["40.98603562"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["D100 Küçükçekmece Gölü 1"], "X Koordinati": ["28.75839354"], "Y Koordinati": ["40.98239427"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["D100 Küçükyalı"], "X Koordinati": ["29.11765406"], "Y Koordinati": ["40.95348615"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["D100 Maltepe"], "X Koordinati": ["29.13404222"], "Y Koordinati": ["40.94001359"], "Hastane Sayisi": 5}
+,{"Sensor Adi": ["D100 Merter"], "X Koordinati": ["28.89747207"], "Y Koordinati": ["41.00812022"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["D100 Metroport"], "X Koordinati": ["28.86125658"], "Y Koordinati": ["40.99481086"], "Hastane Sayisi": 11}
+,{"Sensor Adi": ["D100 Mimarsinan"], "X Koordinati": ["29.02769"], "Y Koordinati": ["41.146647"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["D100 Okmeydanı"], "X Koordinati": ["28.95855202"], "Y Koordinati": ["41.05527669"], "Hastane Sayisi": 5}
+,{"Sensor Adi": ["D100 Pendik"], "X Koordinati": ["29.24175889"], "Y Koordinati": ["40.8858262"], "Hastane Sayisi": 10}
+,{"Sensor Adi": ["D100 Pendik Tersane 2"], "X Koordinati": ["29.272318"], "Y Koordinati": ["40.86736"], "Hastane Sayisi": 4}
+,{"Sensor Adi": ["D100 Sahil Florya Bağlantı"], "X Koordinati": ["28.79944807"], "Y Koordinati": ["40.98620581"], "Hastane Sayisi": 12}
+,{"Sensor Adi": ["D100 Sefaköy"], "X Koordinati": ["28.79689322"], "Y Koordinati": ["40.99797482"], "Hastane Sayisi": 3}
+,{"Sensor Adi": ["D100 Sefaköy Havaalanı"], "X Koordinati": ["28.8052272"], "Y Koordinati": ["41.00045666"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["D100 Selimpaşa"], "X Koordinati": ["28.38384898"], "Y Koordinati": ["41.0520975"], "Hastane Sayisi": 3}
+,{"Sensor Adi": ["D100 Soğanlık"], "X Koordinati": ["29.18031173"], "Y Koordinati": ["40.91647172"], "Hastane Sayisi": 9}
+,{"Sensor Adi": ["D100 Şirinevler"], "X Koordinati": ["28.85323409"], "Y Koordinati": ["40.99210206"], "Hastane Sayisi": 10}
+,{"Sensor Adi": ["D100 Topkapı Haliç Yönü"], "X Koordinati": ["28.92345569"], "Y Koordinati": ["41.02714888"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["D100 Tuzla"], "X Koordinati": ["29.3069468"], "Y Koordinati": ["40.84356309"], "Hastane Sayisi": 4}
+,{"Sensor Adi": ["D100 Tuzla Piyade"], "X Koordinati": ["29.32715992"], "Y Koordinati": ["40.83456096"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["D100 Türk Böbrek Vakfı Önü"], "X Koordinati": ["28.87769559"], "Y Koordinati": ["40.9995373"], "Hastane Sayisi": 6}
+,{"Sensor Adi": ["D100 Tüyap"], "X Koordinati": ["28.62216268"], "Y Koordinati": ["41.02424659"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["D100 Uzunçayır"], "X Koordinati": ["29.053644"], "Y Koordinati": ["40.999663"], "Hastane Sayisi": 3}
+,{"Sensor Adi": ["D100 Vatan Metrobüs"], "X Koordinati": ["28.92443679"], "Y Koordinati": ["41.03042661"], "Hastane Sayisi": 3}
+,{"Sensor Adi": ["D100 Yıldız Katılımı"], "X Koordinati": ["29.01150415"], "Y Koordinati": ["41.05453412"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["D100 Zincirlikuyu"], "X Koordinati": ["29.01447311"], "Y Koordinati": ["41.06473682"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["D100 Zümrüt Evler"], "X Koordinati": ["29.14298931"], "Y Koordinati": ["40.93223749"], "Hastane Sayisi": 10}
+,{"Sensor Adi": ["D100-Altunizade"], "X Koordinati": ["29.04522041"], "Y Koordinati": ["41.03144556"], "Hastane Sayisi": 3}
+,{"Sensor Adi": ["D100-TEM Esenyurt Bağlantı"], "X Koordinati": ["28.68147587"], "Y Koordinati": ["41.02322069"], "Hastane Sayisi": 3}
+,{"Sensor Adi": ["D100-TEM Hadımköy Bağlantı"], "X Koordinati": ["28.62433319"], "Y Koordinati": ["41.0314832"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Dolmabahçe"], "X Koordinati": ["28.996337"], "Y Koordinati": ["41.03867"], "Hastane Sayisi": 6}
+,{"Sensor Adi": ["Dolmabahçe-Bomonti Tüneli-30"], "X Koordinati": ["28.98742664"], "Y Koordinati": ["41.04464134"], "Hastane Sayisi": 14}
+,{"Sensor Adi": ["Dolmabahçe-Bomonti Tüneli-40"], "X Koordinati": ["28.98324592"], "Y Koordinati": ["41.0502351"], "Hastane Sayisi": 16}
+,{"Sensor Adi": ["Dolmabahçe-Bomonti Tüneli-50"], "X Koordinati": ["28.97957567"], "Y Koordinati": ["41.05520058"], "Hastane Sayisi": 15}
+,{"Sensor Adi": ["Dragos Sahil"], "X Koordinati": ["29.14167533"], "Y Koordinati": ["40.90440361"], "Hastane Sayisi": 4}
+,{"Sensor Adi": ["Dragos Sahilyolu"], "X Koordinati": ["29.13236309"], "Y Koordinati": ["40.91496833"], "Hastane Sayisi": 4}
+,{"Sensor Adi": ["Dudullu Kavşağı"], "X Koordinati": ["29.15377114"], "Y Koordinati": ["40.99446617"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["Dünya Ticaret Merkezi"], "X Koordinati": ["28.83315558"], "Y Koordinati": ["40.98372461"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["Edirnekapı"], "X Koordinati": ["28.93343649"], "Y Koordinati": ["41.02905155"], "Hastane Sayisi": 3}
+,{"Sensor Adi": ["Emirgan"], "X Koordinati": ["29.05742016"], "Y Koordinati": ["41.11144114"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["Esatpaşa Mahallesi"], "X Koordinati": ["29.08322504"], "Y Koordinati": ["41.0090811"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Esenyurt Gişeler"], "X Koordinati": ["28.69015495"], "Y Koordinati": ["41.04601925"], "Hastane Sayisi": 3}
+,{"Sensor Adi": ["Eyüp "], "X Koordinati": ["28.93517065"], "Y Koordinati": ["41.05277591"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["Fikirtepe Metrobüs Durağı"], "X Koordinati": ["29.04644691"], "Y Koordinati": ["40.99340318"], "Hastane Sayisi": 6}
+,{"Sensor Adi": ["Fildamı"], "X Koordinati": ["28.88745862"], "Y Koordinati": ["40.99286069"], "Hastane Sayisi": 8}
+,{"Sensor Adi": ["Formula 1 - 1"], "X Koordinati": ["29.319522"], "Y Koordinati": ["40.914571"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["Formula 1 - 2"], "X Koordinati": ["29.34229143"], "Y Koordinati": ["40.92410075"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["FSM Anadolu Girişi"], "X Koordinati": ["29.07894958"], "Y Koordinati": ["41.09238218"], "Hastane Sayisi": 3}
+,{"Sensor Adi": ["FSM Avrupa Çıkışı"], "X Koordinati": ["29.05186579"], "Y Koordinati": ["41.09119902"], "Hastane Sayisi": 5}
+,{"Sensor Adi": ["FSM Avrupa Girişi"], "X Koordinati": ["29.04744412"], "Y Koordinati": ["41.09074423"], "Hastane Sayisi": 5}
+,{"Sensor Adi": ["FSM Gişeler"], "X Koordinati": ["29.04079849"], "Y Koordinati": ["41.09110741"], "Hastane Sayisi": 6}
+,{"Sensor Adi": ["Göksu Evleri"], "X Koordinati": ["29.08882856"], "Y Koordinati": ["41.08910813"], "Hastane Sayisi": 4}
+,{"Sensor Adi": ["Güneşli 1 Basın Ekspres yolu"], "X Koordinati": ["28.81034942"], "Y Koordinati": ["41.03945314"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["Güneşli 2 Basın Ekspres yolu "], "X Koordinati": ["28.81112516"], "Y Koordinati": ["41.02409988"], "Hastane Sayisi": 3}
+,{"Sensor Adi": ["Hacıosman 1"], "X Koordinati": ["29.03218329"], "Y Koordinati": ["41.15258818"], "Hastane Sayisi": 5}
+,{"Sensor Adi": ["Hacıosman 2"], "X Koordinati": ["29.02769"], "Y Koordinati": ["41.146647"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["Haramidere"], "X Koordinati": ["28.67003777"], "Y Koordinati": ["41.00565527"], "Hastane Sayisi": 3}
+,{"Sensor Adi": ["Haramidere Bağlantı Yolu"], "X Koordinati": ["28.67833607"], "Y Koordinati": ["41.01256875"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Harbiye"], "X Koordinati": ["28.987696"], "Y Koordinati": ["41.048494"], "Hastane Sayisi": 17}
+,{"Sensor Adi": ["Havaalanı Çıkışı"], "X Koordinati": ["28.81893774"], "Y Koordinati": ["40.98809097"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Havaalanı Florya"], "X Koordinati": ["28.80277776"], "Y Koordinati": ["40.98015352"], "Hastane Sayisi": 3}
+,{"Sensor Adi": ["Havaalanı İski Önü "], "X Koordinati": ["28.83919773"], "Y Koordinati": ["40.97660915"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["Havuzlu Kavşak"], "X Koordinati": ["28.83371984"], "Y Koordinati": ["40.96788265"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["İkitelli Basın Ekspres yolu "], "X Koordinati": ["28.81055412"], "Y Koordinati": ["41.05648227"], "Hastane Sayisi": 5}
+,{"Sensor Adi": ["İsbak Test"], "X Koordinati": ["29.4578"], "Y Koordinati": ["41.4587"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["İstoç Kuzey Yol"], "X Koordinati": ["28.83757164"], "Y Koordinati": ["41.06373627"], "Hastane Sayisi": 4}
+,{"Sensor Adi": ["Kağıthane"], "X Koordinati": ["28.98011538"], "Y Koordinati": ["41.08624617"], "Hastane Sayisi": 5}
+,{"Sensor Adi": ["Kağıthane İsbak"], "X Koordinati": ["28.98120138"], "Y Koordinati": ["41.09837548"], "Hastane Sayisi": 3}
+,{"Sensor Adi": ["Kağıthane-Piyalepaşa Tüneli-14"], "X Koordinati": ["28.96454983"], "Y Koordinati": ["41.05662736"], "Hastane Sayisi": 8}
+,{"Sensor Adi": ["Kağıthane-Piyalepaşa Tüneli-3"], "X Koordinati": ["28.95523798"], "Y Koordinati": ["41.06249514"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["Kağıthane-Piyalepaşa Tüneli-8"], "X Koordinati": ["28.95984988"], "Y Koordinati": ["41.05897117"], "Hastane Sayisi": 5}
+,{"Sensor Adi": ["Kalamış Sahil Yolu"], "X Koordinati": ["29.04282246"], "Y Koordinati": ["40.97531026"], "Hastane Sayisi": 8}
+,{"Sensor Adi": ["Karaköy Meydan"], "X Koordinati": ["28.97481501"], "Y Koordinati": ["41.02300637"], "Hastane Sayisi": 7}
+,{"Sensor Adi": ["Kartal Fenerbahçe Tesisleri"], "X Koordinati": ["29.21686653"], "Y Koordinati": ["40.94715221"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Kartal Gişeler Çıkışı"], "X Koordinati": ["29.21146311"], "Y Koordinati": ["40.97608292"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["Kartal Gülsuyu"], "X Koordinati": ["29.16104263"], "Y Koordinati": ["40.9223752"], "Hastane Sayisi": 4}
+,{"Sensor Adi": ["Kartal Kumcular Sahilyolu"], "X Koordinati": ["29.20164992"], "Y Koordinati": ["40.88430388"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["Kartal Sahilyolu 2"], "X Koordinati": ["29.18215219"], "Y Koordinati": ["40.885599"], "Hastane Sayisi": 8}
+,{"Sensor Adi": ["Kartal Terra"], "X Koordinati": ["29.2180912"], "Y Koordinati": ["40.9017054"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["Kartal Uğur Mumcu Bağlantı Yolu"], "X Koordinati": ["29.2066188"], "Y Koordinati": ["40.92919009"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Kasımpaşa"], "X Koordinati": ["28.97010741"], "Y Koordinati": ["41.02825056"], "Hastane Sayisi": 9}
+,{"Sensor Adi": ["Kavacık"], "X Koordinati": ["29.08339553"], "Y Koordinati": ["41.0919134"], "Hastane Sayisi": 5}
+,{"Sensor Adi": ["Kavacık FSM"], "X Koordinati": ["29.08480696"], "Y Koordinati": ["41.09226678"], "Hastane Sayisi": 4}
+,{"Sensor Adi": ["Kavacık Hisar Evleri"], "X Koordinati": ["29.09468425"], "Y Koordinati": ["41.08282728"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Kemerburgaz Yolu 2"], "X Koordinati": ["28.94653793"], "Y Koordinati": ["41.12083536"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Kemerburgaz Yolu 3"], "X Koordinati": ["28.93316351"], "Y Koordinati": ["41.13497487"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Kemerburgaz Yolu 5"], "X Koordinati": ["28.8953105"], "Y Koordinati": ["41.15865007"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Kemerdere Kavşağı"], "X Koordinati": ["29.18075227"], "Y Koordinati": ["41.02008963"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["Kızıltoprak"], "X Koordinati": ["29.04159"], "Y Koordinati": ["40.98109"], "Hastane Sayisi": 11}
+,{"Sensor Adi": ["Kozyatağı"], "X Koordinati": ["29.09871073"], "Y Koordinati": ["40.97614796"], "Hastane Sayisi": 7}
+,{"Sensor Adi": ["Kozyatağı Metro"], "X Koordinati": ["29.09408531"], "Y Koordinati": ["40.98249586"], "Hastane Sayisi": 7}
+,{"Sensor Adi": ["Kumburgaz 3"], "X Koordinati": ["28.46511561"], "Y Koordinati": ["41.02630464"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Kumkapı Sahil"], "X Koordinati": ["28.97757326"], "Y Koordinati": ["41.0021954"], "Hastane Sayisi": 9}
+,{"Sensor Adi": ["Kuyumcukent Basın Ekspres yolu "], "X Koordinati": ["28.81925762"], "Y Koordinati": ["40.99855696"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Küçüklanga T-Park"], "X Koordinati": ["28.953519"], "Y Koordinati": ["41.006227"], "Hastane Sayisi": 7}
+,{"Sensor Adi": ["Küçükyalı Sahil Yolu"], "X Koordinati": ["29.10135356"], "Y Koordinati": ["40.94774144"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["Levent 1"], "X Koordinati": ["29.01362334"], "Y Koordinati": ["41.07781277"], "Hastane Sayisi": 12}
+,{"Sensor Adi": ["Levent 2"], "X Koordinati": ["29.01381567"], "Y Koordinati": ["41.07688698"], "Hastane Sayisi": 13}
+,{"Sensor Adi": ["Libadiye"], "X Koordinati": ["29.06999713"], "Y Koordinati": ["41.01990646"], "Hastane Sayisi": 3}
+,{"Sensor Adi": ["M.Bey Gişeler"], "X Koordinati": ["28.786671"], "Y Koordinati": ["41.063435"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Maltepe  Sahilyolu"], "X Koordinati": ["29.11074047"], "Y Koordinati": ["40.94029545"], "Hastane Sayisi": 4}
+,{"Sensor Adi": ["Maltepe Sahil Yolu"], "X Koordinati": ["29.12070416"], "Y Koordinati": ["40.92948539"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["Maslak Atatürk Oto Sanayi"], "X Koordinati": ["29.0247493"], "Y Koordinati": ["41.11562629"], "Hastane Sayisi": 6}
+,{"Sensor Adi": ["Maslak İTÜ Önü"], "X Koordinati": ["29.01912116"], "Y Koordinati": ["41.10819504"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["Mecidiyeköy"], "X Koordinati": ["28.99086788"], "Y Koordinati": ["41.06717977"], "Hastane Sayisi": 13}
+,{"Sensor Adi": ["Merter"], "X Koordinati": ["28.88735588"], "Y Koordinati": ["41.00250335"], "Hastane Sayisi": 5}
+,{"Sensor Adi": ["Metris"], "X Koordinati": ["28.87644858"], "Y Koordinati": ["41.07430571"], "Hastane Sayisi": 3}
+,{"Sensor Adi": ["Mimar Sinan Üniversitesi Önü"], "X Koordinati": ["28.98852"], "Y Koordinati": ["41.029917"], "Hastane Sayisi": 4}
+,{"Sensor Adi": ["Mimarsinan"], "X Koordinati": ["28.554735"], "Y Koordinati": ["41.015986"], "Hastane Sayisi": 4}
+,{"Sensor Adi": ["Molla Gürani Viyadüğü"], "X Koordinati": ["29.10387453"], "Y Koordinati": ["41.07294937"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Mustafa Kemal Mah."], "X Koordinati": ["29.10082466"], "Y Koordinati": ["41.00507772"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["Mustafa Kemal Mahallesi"], "X Koordinati": ["29.09299582"], "Y Koordinati": ["41.00910438"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["Nevzat Demir Tesisleri (BJK)"], "X Koordinati": ["29.13975363"], "Y Koordinati": ["41.03420695"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Nurtepe"], "X Koordinati": ["28.95902549"], "Y Koordinati": ["41.07880913"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["O-3 Atışalanı"], "X Koordinati": ["28.86516836"], "Y Koordinati": ["41.05356645"], "Hastane Sayisi": 10}
+,{"Sensor Adi": ["O-3 Bayrampaşa"], "X Koordinati": ["28.89945797"], "Y Koordinati": ["41.04234657"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["O-3 Esenler"], "X Koordinati": ["28.88269823"], "Y Koordinati": ["41.04602111"], "Hastane Sayisi": 7}
+,{"Sensor Adi": ["O-3 Milliyet Önü"], "X Koordinati": ["28.84399683"], "Y Koordinati": ["41.05960494"], "Hastane Sayisi": 5}
+,{"Sensor Adi": ["Okmeydanı TERRA"], "X Koordinati": ["28.964592"], "Y Koordinati": ["41.056121"], "Hastane Sayisi": 8}
+,{"Sensor Adi": ["Onuncu Yıl Caddesi"], "X Koordinati": ["28.92177092"], "Y Koordinati": ["41.01161868"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Optimum AVM"], "X Koordinati": ["29.084.167"], "Y Koordinati": ["40.988.017"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Ortaköy Sahil"], "X Koordinati": ["29.0339214"], "Y Koordinati": ["41.05520388"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["Otogar"], "X Koordinati": ["28.88466572"], "Y Koordinati": ["41.04360902"], "Hastane Sayisi": 8}
+,{"Sensor Adi": ["Otogar Çıkış Yolu"], "X Koordinati": ["28.88933092"], "Y Koordinati": ["41.03776528"], "Hastane Sayisi": 8}
+,{"Sensor Adi": ["Pendik Bağl. Yolu"], "X Koordinati": ["29.3248613"], "Y Koordinati": ["40.92432418"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Pendik-TEM Bağlantı Yolu"], "X Koordinati": ["29.32101676"], "Y Koordinati": ["40.88468119"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Piyalepaşa"], "X Koordinati": ["28.96812152"], "Y Koordinati": ["41.04958203"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["Piyalepaşa-Kağıthane Tüneli-21"], "X Koordinati": ["28.96470064"], "Y Koordinati": ["41.05687183"], "Hastane Sayisi": 8}
+,{"Sensor Adi": ["Piyalepaşa-Kağıthane Tüneli-27"], "X Koordinati": ["28.96000081"], "Y Koordinati": ["41.05920664"], "Hastane Sayisi": 5}
+,{"Sensor Adi": ["Piyalepaşa-Kağıthane Tüneli-33"], "X Koordinati": ["28.95550928"], "Y Koordinati": ["41.06264167"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["Riva Yolu 1"], "X Koordinati": ["29.09702701"], "Y Koordinati": ["41.09945857"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["Riva Yolu 2"], "X Koordinati": ["29.10902026"], "Y Koordinati": ["41.10777285"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["Riva Yolu 3"], "X Koordinati": ["29.12951433"], "Y Koordinati": ["41.12174205"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Riva Yolu 4"], "X Koordinati": ["29.13192468"], "Y Koordinati": ["41.13129573"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["S Rampası"], "X Koordinati": ["28.61345705"], "Y Koordinati": ["41.02606906"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Sabiha Gökçen Bağlantı yolu"], "X Koordinati": ["29.293889"], "Y Koordinati": ["40.873333"], "Hastane Sayisi": 3}
+,{"Sensor Adi": ["Sahiba Gökçen Kaynarca"], "X Koordinati": ["29.292688"], "Y Koordinati": ["40.873821"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Samatya 1"], "X Koordinati": ["28.93926"], "Y Koordinati": ["41.002753"], "Hastane Sayisi": 19}
+,{"Sensor Adi": ["Sanayi Mah. Büyükdere Cd. "], "X Koordinati": ["29.00541"], "Y Koordinati": ["41.090627"], "Hastane Sayisi": 9}
+,{"Sensor Adi": ["Sarayburnu Sahil Y. Turgut Reis Heykeli "], "X Koordinati": ["28.98744703"], "Y Koordinati": ["41.0132769"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["Sarayburnu Sahil Yolu"], "X Koordinati": ["28.98566597"], "Y Koordinati": ["41.00694017"], "Hastane Sayisi": 6}
+,{"Sensor Adi": ["Sarıgazi Kavşağı"], "X Koordinati": ["29.20540741"], "Y Koordinati": ["41.01635432"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Sarıyer-Çayırbaşı Tüneli-15"], "X Koordinati": ["29.03190113"], "Y Koordinati": ["41.16615363"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Sarıyer-Çayırbaşı Tüneli-2"], "X Koordinati": ["29.03561304"], "Y Koordinati": ["41.17054029"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Sarıyer-Çayırbaşı Tüneli-28"], "X Koordinati": ["29.02833197"], "Y Koordinati": ["41.16174659"], "Hastane Sayisi": 4}
+,{"Sensor Adi": ["Soğanlık Bağl. Yolu"], "X Koordinati": ["29.21323001"], "Y Koordinati": ["40.90832674"], "Hastane Sayisi": 3}
+,{"Sensor Adi": ["Suadiye Sahil"], "X Koordinati": ["29.08963622"], "Y Koordinati": ["40.95348442"], "Hastane Sayisi": 4}
+,{"Sensor Adi": ["Sütlüce"], "X Koordinati": ["28.94294761"], "Y Koordinati": ["41.0536579"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["Şile Yolu"], "X Koordinati": ["29.13190983"], "Y Koordinati": ["41.02933079"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Şişhane"], "X Koordinati": ["28.97168575"], "Y Koordinati": ["41.03074084"], "Hastane Sayisi": 9}
+,{"Sensor Adi": ["Şükrü Saraçoğlu Stadı"], "X Koordinati": ["29.03858941"], "Y Koordinati": ["40.989457"], "Hastane Sayisi": 5}
+,{"Sensor Adi": ["TEM Altınşehir"], "X Koordinati": ["28.72944069"], "Y Koordinati": ["41.05643578"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["TEM Arıcılar"], "X Koordinati": ["28.98199436"], "Y Koordinati": ["41.10021035"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["TEM Ataşehir"], "X Koordinati": ["29.13989557"], "Y Koordinati": ["40.99679467"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["TEM Ataşehir Şerifali"], "X Koordinati": ["29.13212132"], "Y Koordinati": ["40.99691649"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["TEM Aydınlı"], "X Koordinati": ["29.37506931"], "Y Koordinati": ["40.88631043"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["TEM Bahçeşehir"], "X Koordinati": ["28.69442213"], "Y Koordinati": ["41.05878157"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["TEM Bayrampaşa"], "X Koordinati": ["28.87194105"], "Y Koordinati": ["41.07766526"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["TEM Büyükçekmece"], "X Koordinati": ["28.61179819"], "Y Koordinati": ["41.1004591"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["TEM Büyükçekmece 1"], "X Koordinati": ["28.62379198"], "Y Koordinati": ["41.09611898"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["TEM Büyükçekmece 2"], "X Koordinati": ["28.59787674"], "Y Koordinati": ["41.10300971"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["TEM Büyükçekmece 3"], "X Koordinati": ["28.5683026"], "Y Koordinati": ["41.10655369"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["TEM Büyükçekmece 4"], "X Koordinati": ["28.54610752"], "Y Koordinati": ["41.10680693"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["TEM Büyükçekmece-2"], "X Koordinati": ["28.58397293"], "Y Koordinati": ["41.10524372"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["TEM Celaliye 2"], "X Koordinati": ["28.43498"], "Y Koordinati": ["41.051689"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["TEM Celaliye 3"], "X Koordinati": ["28.40863812"], "Y Koordinati": ["41.06190578"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["TEM Çakmak"], "X Koordinati": ["29.12190503"], "Y Koordinati": ["41.01357833"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["TEM Çakmak Köprüsü"], "X Koordinati": ["29.12076863"], "Y Koordinati": ["41.01768469"], "Hastane Sayisi": 6}
+,{"Sensor Adi": ["TEM Çatalca"], "X Koordinati": ["28.51313801"], "Y Koordinati": ["41.09549123"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["TEM D100 Okmeydanı Bağl. Yolu"], "X Koordinati": ["28.95766695"], "Y Koordinati": ["41.06065904"], "Hastane Sayisi": 3}
+,{"Sensor Adi": ["TEM Esenyurt"], "X Koordinati": ["28.654985"], "Y Koordinati": ["41.061196"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["TEM Esenyurt Çıkışı"], "X Koordinati": ["28.64359945"], "Y Koordinati": ["41.07866986"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["TEM Finanskent"], "X Koordinati": ["28.93664132"], "Y Koordinati": ["41.0921741"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["TEM Firuzköy"], "X Koordinati": ["28.72006511"], "Y Koordinati": ["41.05470225"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["TEM FSM Gişe Sahası Öncesi"], "X Koordinati": ["29.03357927"], "Y Koordinati": ["41.09156933"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["TEM FSM Köprü Çıkışı"], "X Koordinati": ["29.07142776"], "Y Koordinati": ["41.09152042"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["TEM Gazi Mah"], "X Koordinati": ["28.89304991"], "Y Koordinati": ["41.09116023"], "Hastane Sayisi": 4}
+,{"Sensor Adi": ["TEM Gaziosmanpaşa"], "X Koordinati": ["28.8852912"], "Y Koordinati": ["41.08897843"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["TEM Gaziosmanpaşa Tırparkı"], "X Koordinati": ["28.91730847"], "Y Koordinati": ["41.09315558"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["TEM Gaziosmanpaşa Toki Konutları"], "X Koordinati": ["28.9054241"], "Y Koordinati": ["41.09065716"], "Hastane Sayisi": 8}
+,{"Sensor Adi": ["TEM GOP"], "X Koordinati": ["28.879612"], "Y Koordinati": ["41.085946"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["TEM Güney Yanyol 1"], "X Koordinati": ["28.76255495"], "Y Koordinati": ["41.06100112"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["TEM Güney Yanyol 2"], "X Koordinati": ["28.77847715"], "Y Koordinati": ["41.06200841"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["TEM Hadımköy"], "X Koordinati": ["28.63256705"], "Y Koordinati": ["41.09023576"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["TEM Halkalı"], "X Koordinati": ["28.76259146"], "Y Koordinati": ["41.06222609"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["TEM Harp Akademileri"], "X Koordinati": ["29.00644634"], "Y Koordinati": ["41.10004565"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["TEM Hasdal"], "X Koordinati": ["28.95531515"], "Y Koordinati": ["41.09819768"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["TEM Hasdal 1"], "X Koordinati": ["28.97107029"], "Y Koordinati": ["41.10000525"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["TEM Hasdal 2"], "X Koordinati": ["28.96563661"], "Y Koordinati": ["41.09961444"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["TEM Hasdal Kavşağı"], "X Koordinati": ["28.95737965"], "Y Koordinati": ["41.09936893"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["TEM İstoç"], "X Koordinati": ["28.83047355"], "Y Koordinati": ["41.06416868"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["TEM İstoç Yanyol"], "X Koordinati": ["28.83047722"], "Y Koordinati": ["41.06396162"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["TEM Karanfilköy"], "X Koordinati": ["29.028617"], "Y Koordinati": ["41.092425"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["TEM Kartal"], "X Koordinati": ["29.112199"], "Y Koordinati": ["40.592319"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["TEM Kartal Kavşağı"], "X Koordinati": ["29.20774189"], "Y Koordinati": ["40.98224349"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["TEM Kavacık"], "X Koordinati": ["29.09015105"], "Y Koordinati": ["41.08967085"], "Hastane Sayisi": 3}
+,{"Sensor Adi": ["TEM Kavacık Kavşağı"], "X Koordinati": ["29.09217582"], "Y Koordinati": ["41.08869635"], "Hastane Sayisi": 3}
+,{"Sensor Adi": ["TEM Kemerburgaz Ayrımı"], "X Koordinati": ["28.94969333"], "Y Koordinati": ["41.0939416"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["TEM Kumburgaz"], "X Koordinati": ["28.48163055"], "Y Koordinati": ["41.05940631"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["TEM Kurtköy"], "X Koordinati": ["29.30786825"], "Y Koordinati": ["40.94863487"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["TEM Kurtköy Kavşağı"], "X Koordinati": ["29.33301083"], "Y Koordinati": ["40.93559134"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["TEM Küçükbakkalköy"], "X Koordinati": ["29.106018"], "Y Koordinati": ["40.985743"], "Hastane Sayisi": 16}
+,{"Sensor Adi": ["TEM Küçükbakkalköy Kavacık Yönü"], "X Koordinati": ["29.11486524"], "Y Koordinati": ["40.99420099"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["TEM Küçükbakkalköy Kozyatağı Yönü"], "X Koordinati": ["29.11109806"], "Y Koordinati": ["40.99065127"], "Hastane Sayisi": 7}
+,{"Sensor Adi": ["TEM Levent"], "X Koordinati": ["29.02189668"], "Y Koordinati": ["41.09444215"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["TEM Mahmutbey Doğu Kavşağı Çıkışı"], "X Koordinati": ["28.84062006"], "Y Koordinati": ["41.06221826"], "Hastane Sayisi": 5}
+,{"Sensor Adi": ["TEM Mahmutbey Gişeler Girişi"], "X Koordinati": ["28.80726395"], "Y Koordinati": ["41.06148161"], "Hastane Sayisi": 4}
+,{"Sensor Adi": ["TEM Mehmetcik Vakfı"], "X Koordinati": ["29.35084241"], "Y Koordinati": ["40.92255539"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["TEM Milliyet 2 (Yaşar Ticaret Karşısı)"], "X Koordinati": ["28.85103492"], "Y Koordinati": ["41.06463667"], "Hastane Sayisi": 8}
+,{"Sensor Adi": ["TEM Milliyet Önü"], "X Koordinati": ["28.84457489"], "Y Koordinati": ["41.06124051"], "Hastane Sayisi": 4}
+,{"Sensor Adi": ["TEM Muratbey"], "X Koordinati": ["28.50764617"], "Y Koordinati": ["41.08256248"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["TEM Olimpiyat Stadı"], "X Koordinati": ["28.75357025"], "Y Koordinati": ["41.0611654"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["TEM Orhanlı"], "X Koordinati": ["29.36342733"], "Y Koordinati": ["40.90512054"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["TEM Samandıra 1"], "X Koordinati": ["29.2175562"], "Y Koordinati": ["40.9802665"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["TEM Samandıra 2"], "X Koordinati": ["29.23588563"], "Y Koordinati": ["40.97549101"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["TEM Samandıra 3"], "X Koordinati": ["29.24635058"], "Y Koordinati": ["40.97568596"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["TEM Samandıra Test"], "X Koordinati": ["29.22551712"], "Y Koordinati": ["40.97721371"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["TEM Selimpaşa"], "X Koordinati": ["28.39268849"], "Y Koordinati": ["41.067645"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["TEM Seyrantepe"], "X Koordinati": ["28.98567259"], "Y Koordinati": ["41.10094904"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["TEM Sultanbeyli"], "X Koordinati": ["29.27280709"], "Y Koordinati": ["40.96618503"], "Hastane Sayisi": 10}
+,{"Sensor Adi": ["TEM Sultanbeyli 1"], "X Koordinati": ["29.28435454"], "Y Koordinati": ["40.95952189"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["TEM Sultanbeyli 2"], "X Koordinati": ["29.2592251"], "Y Koordinati": ["40.97184344"], "Hastane Sayisi": 10}
+,{"Sensor Adi": ["TEM Sultanbeyli Hamidiye"], "X Koordinati": ["29.29687981"], "Y Koordinati": ["40.95345987"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["TEM Tekstilkent İstanbul Yönü"], "X Koordinati": ["28.85744279"], "Y Koordinati": ["41.06696045"], "Hastane Sayisi": 5}
+,{"Sensor Adi": ["TEM-D100 Esenyurt Bağlantı"], "X Koordinati": ["28.68936816"], "Y Koordinati": ["41.03951829"], "Hastane Sayisi": 9}
+,{"Sensor Adi": ["TEM-D100 Hadımköy Bağlantı"], "X Koordinati": ["28.62257735"], "Y Koordinati": ["41.07449465"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["TEM-Levent Bağlantı Yolu"], "X Koordinati": ["29.0186479"], "Y Koordinati": ["41.08960625"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["Tepebaşı"], "X Koordinati": ["28.97502505"], "Y Koordinati": ["41.03547085"], "Hastane Sayisi": 11}
+,{"Sensor Adi": ["Tepeüstü Meydan Alışveriş Merkezi"], "X Koordinati": ["29.12888535"], "Y Koordinati": ["41.02333805"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["Terazidere Metro"], "X Koordinati": ["28.89851979"], "Y Koordinati": ["41.02942545"], "Hastane Sayisi": 3}
+,{"Sensor Adi": ["Tophane Sahil TDİ Karşısı"], "X Koordinati": ["28.98302524"], "Y Koordinati": ["41.02793307"], "Hastane Sayisi": 4}
+,{"Sensor Adi": ["Topkapı"], "X Koordinati": ["28.92021972"], "Y Koordinati": ["41.02289559"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["Tuzla Şifa Mahallesi"], "X Koordinati": ["29.3547"], "Y Koordinati": ["40.8226"], "Hastane Sayisi": 7}
+,{"Sensor Adi": ["Unkapanı DMS"], "X Koordinati": ["28.95957"], "Y Koordinati": ["41.020948"], "Hastane Sayisi": 9}
+,{"Sensor Adi": ["Ümraniye"], "X Koordinati": ["29.12026425"], "Y Koordinati": ["41.05200553"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Ümraniye Elmalı"], "X Koordinati": ["29.111094"], "Y Koordinati": ["41.06609898"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Ümraniye Kavşağı"], "X Koordinati": ["29.1210945"], "Y Koordinati": ["41.02894267"], "Hastane Sayisi": 4}
+,{"Sensor Adi": ["Ümraniye Küçüksu"], "X Koordinati": ["29.11147847"], "Y Koordinati": ["41.02957127"], "Hastane Sayisi": 7}
+,{"Sensor Adi": ["Ümraniye Şile Yolu"], "X Koordinati": ["29.11648773"], "Y Koordinati": ["41.03110451"], "Hastane Sayisi": 4}
+,{"Sensor Adi": ["Üsküdar Sahil Yolu"], "X Koordinati": ["29.03403306"], "Y Koordinati": ["41.03943823"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Vatan Cad."], "X Koordinati": ["28.93085576"], "Y Koordinati": ["41.02320185"], "Hastane Sayisi": 16}
+,{"Sensor Adi": ["Vatan Caddesi Emniyet Müdürlüğü"], "X Koordinati": ["28.93698652"], "Y Koordinati": ["41.01902652"], "Hastane Sayisi": 20}
+,{"Sensor Adi": ["Vecdi Diker Tüneli"], "X Koordinati": ["29.06065999"], "Y Koordinati": ["41.02355855"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["Yenibosna"], "X Koordinati": ["28.8335434"], "Y Koordinati": ["40.99273287"], "Hastane Sayisi": 14}
+,{"Sensor Adi": ["Yeşilköy Sahil Yolu"], "X Koordinati": ["28.82341744"], "Y Koordinati": ["40.96336582"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["Yeşilvadi Konutları"], "X Koordinati": ["29.12617866"], "Y Koordinati": ["41.02752262"], "Hastane Sayisi": 3}
+,{"Sensor Adi": ["Yeşilyurt"], "X Koordinati": ["28.839783"], "Y Koordinati": ["40.969783"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Yıldırım Mah. Girişi"], "X Koordinati": ["28.88173699"], "Y Koordinati": ["41.06696468"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Yıldırım Mahallesi (Sebze meyve hali)"], "X Koordinati": ["28.88605169"], "Y Koordinati": ["41.05803825"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["Yıldız"], "X Koordinati": ["29.00888374"], "Y Koordinati": ["41.05349653"], "Hastane Sayisi": 4}
+,{"Sensor Adi": ["Zeytinburnu Sahil"], "X Koordinati": ["28.90954786"], "Y Koordinati": ["40.98439157"], "Hastane Sayisi": 4}
+,{"Sensor Adi": ["Zeytinburnu Sahilyolu İbis Otel Karşısı"], "X Koordinati": ["28.89826301"], "Y Koordinati": ["40.97989913"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["Zincirlikuyu"], "X Koordinati": ["29.01338795"], "Y Koordinati": ["41.06729376"], "Hastane Sayisi": 6}
+,{"Sensor Adi": ["Kadıköy Hasanpaşa"], "X Koordinati": ["29.05096856"], "Y Koordinati": ["40.9954935"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["Unkapanı Sahil"], "X Koordinati": ["28.96231932"], "Y Koordinati": ["41.02142744"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["Avcılar Çıkış D100 Karayolu "], "X Koordinati": ["28.7510279"], "Y Koordinati": ["40.9798115"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["D100 Mecidiyeköy B. Köprü Katılımı"], "X Koordinati": ["29.00542422"], "Y Koordinati": ["41.06679309"], "Hastane Sayisi": 11}
+,{"Sensor Adi": ["Haliç Köprü Girişi-Halıcıoğlu"], "X Koordinati": ["28.9449503"], "Y Koordinati": ["41.04817464"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["Perpa"], "X Koordinati": ["28.96719605"], "Y Koordinati": ["41.06160347"], "Hastane Sayisi": 18}
+,{"Sensor Adi": ["TEM Celaliye 1"], "X Koordinati": ["28.45456039"], "Y Koordinati": ["41.05413917"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Unkapanı Köprüsü"], "X Koordinati": ["28.96219212"], "Y Koordinati": ["41.02271392"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["Yeniköy"], "X Koordinati": ["29.07076067"], "Y Koordinati": ["41.125335"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["Zeytinburnu Sahil Yolu DMS"], "X Koordinati": ["28.88834988"], "Y Koordinati": ["40.98012811"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["Seyrantepe"], "X Koordinati": ["29.00167254"], "Y Koordinati": ["41.10086878"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["Veliefendi"], "X Koordinati": ["28.88473316"], "Y Koordinati": ["40.98534272"], "Hastane Sayisi": 5}
+,{"Sensor Adi": ["Kartal Gişeler Girişi"], "X Koordinati": ["29.22104694"], "Y Koordinati": ["40.96129063"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["Kartal Sahil Yolu"], "X Koordinati": ["29.16796608"], "Y Koordinati": ["40.89472726"], "Hastane Sayisi": 4}
+,{"Sensor Adi": ["D100 Gülsuyu"], "X Koordinati": ["29.17005731"], "Y Koordinati": ["40.91918979"], "Hastane Sayisi": 14}
+,{"Sensor Adi": ["Sanayi Mahallesi"], "X Koordinati": ["29.00646233"], "Y Koordinati": ["41.09661517"], "Hastane Sayisi": 7}
+,{"Sensor Adi": ["Libadiye Soyak Siteleri"], "X Koordinati": ["29.0723607"], "Y Koordinati": ["41.0031233"], "Hastane Sayisi": 8}
+,{"Sensor Adi": ["Levent-TEM Bağlantı Yolu"], "X Koordinati": ["29.01959481"], "Y Koordinati": ["41.08995647"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["D100 Unalan"], "X Koordinati": ["29.05949306"], "Y Koordinati": ["41.00362232"], "Hastane Sayisi": 3}
+,{"Sensor Adi": ["Memorial Hast."], "X Koordinati": ["28.9771321"], "Y Koordinati": ["41.0652758"], "Hastane Sayisi": 20}
+,{"Sensor Adi": ["Okmeydanı DMS"], "X Koordinati": ["28.949946"], "Y Koordinati": ["41.051648"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["Güneşli B. Ekspres Yolu"], "X Koordinati": ["28.80777032"], "Y Koordinati": ["41.04859281"], "Hastane Sayisi": 4}
+,{"Sensor Adi": ["Havaalanı (Çiroz Spor Tesisleri)"], "X Koordinati": ["28.813677"], "Y Koordinati": ["40.964018"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["Beylikdüzü"], "X Koordinati": ["28.638692"], "Y Koordinati": ["41.016302"], "Hastane Sayisi": 3}
+,{"Sensor Adi": ["Yıldız Köprü Bağlantısı"], "X Koordinati": ["29.01744819"], "Y Koordinati": ["41.05748675"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["Ümraniye Otopazarı"], "X Koordinati": ["29.09657127"], "Y Koordinati": ["41.03104015"], "Hastane Sayisi": 10}
+,{"Sensor Adi": ["Tantavi Tüneli"], "X Koordinati": ["29.08221602"], "Y Koordinati": ["41.02439855"], "Hastane Sayisi": 11}
+,{"Sensor Adi": ["D100 Muratbey"], "X Koordinati": ["28.53471255"], "Y Koordinati": ["41.01153445"], "Hastane Sayisi": 3}
+,{"Sensor Adi": ["Kemerburgaz Yolu 1"], "X Koordinati": ["28.95271385"], "Y Koordinati": ["41.10684512"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["İTÜ"], "X Koordinati": ["29.02521326"], "Y Koordinati": ["41.10840883"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["Bağdat Cad. Girişi"], "X Koordinati": ["29.08420021"], "Y Koordinati": ["40.95837583"], "Hastane Sayisi": 8}
+,{"Sensor Adi": ["Gölet"], "X Koordinati": ["28.9374"], "Y Koordinati": ["41.2302"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Odayeri"], "X Koordinati": ["28.867201"], "Y Koordinati": ["41.231398"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Yavuz Sultan Selim Köprüsü Anadolu"], "X Koordinati": ["29.123974"], "Y Koordinati": ["41.197849"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Değirmendere"], "X Koordinati": ["29.235945"], "Y Koordinati": ["41.179689"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Fenertepe Kavşağı"], "X Koordinati": ["28.805352"], "Y Koordinati": ["41.139152"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["İshaklı"], "X Koordinati": ["29.286221"], "Y Koordinati": ["41.130788"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["İstoç"], "X Koordinati": ["28.8148"], "Y Koordinati": ["41.0679"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Reşadiye Kavşağı"], "X Koordinati": ["29.275994"], "Y Koordinati": ["41.052189"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Uskumruköy Kavşağı"], "X Koordinati": ["29.0241"], "Y Koordinati": ["41.2263"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["15 Temmuz Şehitler Köprüsü Anadolu"], "X Koordinati": ["29.0439"], "Y Koordinati": ["41.035517"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["TEM Ümraniye"], "X Koordinati": ["29.121018"], "Y Koordinati": ["41.033553"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["D100 S Rampası 1"], "X Koordinati": ["28.60057331"], "Y Koordinati": ["41.02528303"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["TEM Tepekent"], "X Koordinati": ["28.50677505"], "Y Koordinati": ["41.07005358"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["D100 Hurriyet Tepesi"], "X Koordinati": ["28.985723"], "Y Koordinati": ["41.067143"], "Hastane Sayisi": 16}
+,{"Sensor Adi": ["Sahil-D100 Florya Bağlantı"], "X Koordinati": ["28.80460408"], "Y Koordinati": ["40.97113211"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["TEM Ayrımı"], "X Koordinati": ["29.124476"], "Y Koordinati": ["40.995467"], "Hastane Sayisi": 3}
+,{"Sensor Adi": ["Dolmabahçe Sahil"], "X Koordinati": ["28.994606"], "Y Koordinati": ["41.036379"], "Hastane Sayisi": 6}
+,{"Sensor Adi": ["Darüşşafaka"], "X Koordinati": ["29.023281"], "Y Koordinati": ["41.125137"], "Hastane Sayisi": 3}
+,{"Sensor Adi": ["TEM Tekstilkent"], "X Koordinati": ["28.866209"], "Y Koordinati": ["41.071516"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["Dudullu Kavşağı "], "X Koordinati": ["29.12299631"], "Y Koordinati": ["40.9976218"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["Sepetçiler Kasrı Sahil Yolu "], "X Koordinati": ["28.983058"], "Y Koordinati": ["41.016482"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Ataköy"], "X Koordinati": ["28.865933"], "Y Koordinati": ["40.976046"], "Hastane Sayisi": 7}
+,{"Sensor Adi": ["Yedikule Sahil"], "X Koordinati": ["28.9191"], "Y Koordinati": ["40.989"], "Hastane Sayisi": 4}
+,{"Sensor Adi": ["Samatya Sahilyolu Liman"], "X Koordinati": ["28.927553"], "Y Koordinati": ["40.991907"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["Samatya Sahil"], "X Koordinati": ["28.932372"], "Y Koordinati": ["40.998139"], "Hastane Sayisi": 4}
+,{"Sensor Adi": ["Başakşehir"], "X Koordinati": ["28.8133"], "Y Koordinati": ["41.0832"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Beylerbeyi Tünel"], "X Koordinati": ["29.042103"], "Y Koordinati": ["41.04316"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["Taksim Altgeçidi"], "X Koordinati": ["28.983658"], "Y Koordinati": ["41.037559"], "Hastane Sayisi": 12}
+,{"Sensor Adi": ["Çamlık"], "X Koordinati": ["29.132241"], "Y Koordinati": ["41.049296"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Anadolu Feneri"], "X Koordinati": ["29.164621"], "Y Koordinati": ["41.197308"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Kco Çekmeköy Kavşağı"], "X Koordinati": ["29.19354"], "Y Koordinati": ["41.051371"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Taşdelen"], "X Koordinati": ["29.208758"], "Y Koordinati": ["41.043348"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Avrasya Tünel 100"], "X Koordinati": ["29.01219809"], "Y Koordinati": ["41.00479029"], "Hastane Sayisi": 4}
+,{"Sensor Adi": ["Avrasya Tünel 106"], "X Koordinati": ["29.00763774"], "Y Koordinati": ["41.00528438"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Avrasya Tünel 11"], "X Koordinati": ["28.97751559"], "Y Koordinati": ["41.00149686"], "Hastane Sayisi": 5}
+,{"Sensor Adi": ["Avrasya Tünel 112"], "X Koordinati": ["29.0030398"], "Y Koordinati": ["41.0057944"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Avrasya Tünel 118"], "X Koordinati": ["28.99842064"], "Y Koordinati": ["41.00594343"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Avrasya Tünel 124"], "X Koordinati": ["28.99380521"], "Y Koordinati": ["41.00540154"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Avrasya Tünel 130"], "X Koordinati": ["28.98944826"], "Y Koordinati": ["41.00425465"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Avrasya Tünel 136"], "X Koordinati": ["28.9851442"], "Y Koordinati": ["41.00295117"], "Hastane Sayisi": 6}
+,{"Sensor Adi": ["Avrasya Tünel 142"], "X Koordinati": ["28.980751"], "Y Koordinati": ["41.00189116"], "Hastane Sayisi": 5}
+,{"Sensor Adi": ["Avrasya Tünel 148"], "X Koordinati": ["28.97614595"], "Y Koordinati": ["41.00146779"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Avrasya Tünel 154"], "X Koordinati": ["28.97163787"], "Y Koordinati": ["41.0016946"], "Hastane Sayisi": 6}
+,{"Sensor Adi": ["Avrasya Tünel 17"], "X Koordinati": ["28.98208909"], "Y Koordinati": ["41.00208674"], "Hastane Sayisi": 5}
+,{"Sensor Adi": ["Avrasya Tünel 23"], "X Koordinati": ["28.98644358"], "Y Koordinati": ["41.00327817"], "Hastane Sayisi": 6}
+,{"Sensor Adi": ["Avrasya Tünel 29"], "X Koordinati": ["28.99075207"], "Y Koordinati": ["41.00457325"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Avrasya Tünel 36"], "X Koordinati": ["28.99592077"], "Y Koordinati": ["41.00565511"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Avrasya Tünel 41"], "X Koordinati": ["28.99978114"], "Y Koordinati": ["41.00590579"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Avrasya Tünel 48"], "X Koordinati": ["29.00515945"], "Y Koordinati": ["41.00548034"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Avrasya Tünel 5"], "X Koordinati": ["28.97289646"], "Y Koordinati": ["41.00134725"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Avrasya Tünel 54"], "X Koordinati": ["29.00974527"], "Y Koordinati": ["41.00496982"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["Avrasya Tünel 59"], "X Koordinati": ["29.01357588"], "Y Koordinati": ["41.00464627"], "Hastane Sayisi": 3}
+,{"Sensor Adi": ["Avrasya Tünel 65"], "X Koordinati": ["29.01817189"], "Y Koordinati": ["41.00507436"], "Hastane Sayisi": 8}
+,{"Sensor Adi": ["Avrasya Tünel 72"], "X Koordinati": ["29.02348173"], "Y Koordinati": ["41.00565396"], "Hastane Sayisi": 10}
+,{"Sensor Adi": ["Avrasya Tünel 78"], "X Koordinati": ["29.0280143"], "Y Koordinati": ["41.00493983"], "Hastane Sayisi": 11}
+,{"Sensor Adi": ["Avrasya Tünel 83"], "X Koordinati": ["29.02513133"], "Y Koordinati": ["41.00614411"], "Hastane Sayisi": 10}
+,{"Sensor Adi": ["Avrasya Tünel 88"], "X Koordinati": ["29.02126891"], "Y Koordinati": ["41.00595374"], "Hastane Sayisi": 7}
+,{"Sensor Adi": ["Avrasya Tünel 94"], "X Koordinati": ["29.01677944"], "Y Koordinati": ["41.00511412"], "Hastane Sayisi": 7}
+,{"Sensor Adi": ["Hüseyinli Kavşağı"], "X Koordinati": ["29.2876"], "Y Koordinati": ["41.1196"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Poyrazköy"], "X Koordinati": ["29.140881"], "Y Koordinati": ["41.19757"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["D100 Avrasya Tünel Çıkışı "], "X Koordinati": ["29.03572134"], "Y Koordinati": ["41.00360598"], "Hastane Sayisi": 12}
+,{"Sensor Adi": ["TEM Elmalı"], "X Koordinati": ["29.11825683"], "Y Koordinati": ["41.0580321"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Bayrampaşa Hali Önü"], "X Koordinati": ["28.885.556"], "Y Koordinati": ["41.050.833"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Anadolu Feneri Üst Geçit"], "X Koordinati": ["29.1776"], "Y Koordinati": ["41.1964"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Sırapınar "], "X Koordinati": ["29.290172"], "Y Koordinati": ["41.099268"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Riva"], "X Koordinati": ["29.210557"], "Y Koordinati": ["41.192491"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Kco Riva Tüneli Kuzey"], "X Koordinati": ["29.272955"], "Y Koordinati": ["41.149008"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Harp Akademisi"], "X Koordinati": ["29.01175034"], "Y Koordinati": ["41.10434127"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Kumköy"], "X Koordinati": ["29.04"], "Y Koordinati": ["41.2375"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Uskumruköy Bağlantı Yolu"], "X Koordinati": ["29.0229"], "Y Koordinati": ["41.2292"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Riva Kavşağı"], "X Koordinati": ["29.1946"], "Y Koordinati": ["41.1906"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Çiftalan"], "X Koordinati": ["28.9184"], "Y Koordinati": ["41.2344"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["KCO Riva Tüneli Güney"], "X Koordinati": ["29.2822"], "Y Koordinati": ["41.1426"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Reşadiye Shell"], "X Koordinati": ["29.2875"], "Y Koordinati": ["41.1196"], "Hastane Sayisi": 0}
+,{"Sensor Adi": [" Alemdağ"], "X Koordinati": ["29.2282"], "Y Koordinati": ["41.0449"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["YSS Avrupa"], "X Koordinati": ["29.0922"], "Y Koordinati": ["41.2123"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Çekmeköy Merkez"], "X Koordinati": ["29.2475"], "Y Koordinati": ["41.0449"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["Nişantepe"], "X Koordinati": ["29.2635"], "Y Koordinati": ["41.048"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Başakşehir 4. Etap 1. Kısım"], "X Koordinati": ["28.8154"], "Y Koordinati": ["41.1092"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["Başakşehir 4. Etap 2. Kısım"], "X Koordinati": ["28.8136"], "Y Koordinati": ["41.0951"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Boğazköy"], "X Koordinati": ["28.8133"], "Y Koordinati": ["41.1777"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Fatih Terim Stadyumu"], "X Koordinati": ["28.8124"], "Y Koordinati": ["41.1232"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["Işıklar Kavşağı"], "X Koordinati": ["28.83"], "Y Koordinati": ["41.2135"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Pirinççi"], "X Koordinati": ["28.8101"], "Y Koordinati": ["41.1585"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Uskumruköy"], "X Koordinati": ["29.0422"], "Y Koordinati": ["41.2262"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Avcılar Pelikan"], "X Koordinati": ["28.714688"], "Y Koordinati": ["40.989787"], "Hastane Sayisi": 6}
+,{"Sensor Adi": ["Arıköy"], "X Koordinati": ["2.900.138.125.995.970"], "Y Koordinati": ["4.122.074.014.861.440"], "Hastane Sayisi": 6}
+,{"Sensor Adi": ["Paşaköy kavşağı"], "X Koordinati": ["29.274"], "Y Koordinati": ["41.0092"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Riva Tır Parkı"], "X Koordinati": ["29.214179"], "Y Koordinati": ["41.18757"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["YTU 6 - Sanat Tasarım Fakültesi"], "X Koordinati": ["29.19356182"], "Y Koordinati": ["40.912342"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["TEM Mahmutbey Gişeler"], "X Koordinati": ["2.880.686.727.261.250"], "Y Koordinati": ["4.106.131.003.100.720"], "Hastane Sayisi": 2}
+,{"Sensor Adi": ["Alemdağ Kavşağı"], "X Koordinati": ["29.27"], "Y Koordinati": ["41.0289"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Demirci"], "X Koordinati": ["29.0666"], "Y Koordinati": ["41.2273"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Öğümce"], "X Koordinati": ["29.256"], "Y Koordinati": ["41.1642"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Işıklar"], "X Koordinati": ["28.82413723"], "Y Koordinati": ["41.20529906"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Kompost Kavşağı"], "X Koordinati": ["28.8355"], "Y Koordinati": ["41.2114"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Odayeri Kavşağı"], "X Koordinati": ["28.849"], "Y Koordinati": ["41.2333"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Kısırkaya"], "X Koordinati": ["28.9595"], "Y Koordinati": ["41.2335"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Gümüşdere"], "X Koordinati": ["28.9831"], "Y Koordinati": ["41.2262"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Yakacık Bağl. Yolu"], "X Koordinati": ["29.2127242"], "Y Koordinati": ["40.91894871"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["Kırkmerdiven Göleti"], "X Koordinati": ["28.8909"], "Y Koordinati": ["41.2358"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Beylerbeyi Sahil Yolu"], "X Koordinati": ["29.04308574"], "Y Koordinati": ["41.04336762"], "Hastane Sayisi": 1}
+,{"Sensor Adi": ["Rumeli feneri"], "X Koordinati": ["29.08348391"], "Y Koordinati": ["41.21990605"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Göktürk Kavşağı"], "X Koordinati": ["28.878916"], "Y Koordinati": ["41.176403"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["İhsaniye Kavşağı"], "X Koordinati": ["28.81787"], "Y Koordinati": ["41.233395"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["İstaç Katı Atık Tesisi"], "X Koordinati": ["28.856191"], "Y Koordinati": ["41.203025"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Viyadük 1"], "X Koordinati": ["28.773645"], "Y Koordinati": ["41.245286"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["İstanbul Havalimanı Çıkış"], "X Koordinati": ["28.737081"], "Y Koordinati": ["41.246301"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["Göktürk Gölet"], "X Koordinati": ["28.867974"], "Y Koordinati": ["41.195935"], "Hastane Sayisi": 0}
+,{"Sensor Adi": ["TEM Çavuşbaşı"], "X Koordinati": ["29.12150696"], "Y Koordinati": ["41.0408496"], "Hastane Sayisi": 0}]
